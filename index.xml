@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Content Content Corp.</title>
-    <link>https://contentcontentco.github.io/</link>
+    <link>https://contentcontent.github.io/content/</link>
     <description>Recent content on Content Content Corp.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 06 Apr 2022 18:29:19 -0400</lastBuildDate><atom:link href="https://contentcontentco.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Apr 2022 18:29:19 -0400</lastBuildDate><atom:link href="https://contentcontent.github.io/content/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>HelloWorld</title>
-      <link>https://contentcontentco.github.io/posts/helloworld/</link>
+      <link>https://contentcontent.github.io/content/posts/helloworld/</link>
       <pubDate>Wed, 06 Apr 2022 18:29:19 -0400</pubDate>
       
-      <guid>https://contentcontentco.github.io/posts/helloworld/</guid>
+      <guid>https://contentcontent.github.io/content/posts/helloworld/</guid>
       <description>heol wordl!</description>
     </item>
     

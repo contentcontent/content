@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://contentcontentco.github.io/</loc>
+    <loc>https://contentcontent.github.io/content/</loc>
     <lastmod>2022-04-06T18:29:19-04:00</lastmod>
   </url><url>
-    <loc>https://contentcontentco.github.io/posts/helloworld/</loc>
+    <loc>https://contentcontent.github.io/content/posts/helloworld/</loc>
     <lastmod>2022-04-06T18:29:19-04:00</lastmod>
   </url><url>
-    <loc>https://contentcontentco.github.io/posts/</loc>
+    <loc>https://contentcontent.github.io/content/posts/</loc>
     <lastmod>2022-04-06T18:29:19-04:00</lastmod>
   </url><url>
-    <loc>https://contentcontentco.github.io/categories/</loc>
+    <loc>https://contentcontent.github.io/content/categories/</loc>
   </url><url>
-    <loc>https://contentcontentco.github.io/tags/</loc>
+    <loc>https://contentcontent.github.io/content/tags/</loc>
   </url>
 </urlset>
